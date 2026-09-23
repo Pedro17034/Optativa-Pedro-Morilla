@@ -9,11 +9,11 @@
 ## Parte 2: Primeros pasos con la consola del navegador
 
 1. Abre tu navegador web (Chrome, Firefox, Edge, etc.).
-  ![Navegador](/Optativa-Pedro-Morilla/img/navegador.png)
+  ![Navegador](/img/navegador.png)
 2. Accede a cualquier página web y pulsa `F12` o `Ctrl+Shift+I` para abrir las herramientas de desarrollo.
-  ![f12](/Optativa-Pedro-Morilla/img/f12.png)
+  ![f12](/img/f12.png)
 3. Haz clic en la pestaña "Consola".
-  ![console](/Optativa-Pedro-Morilla/img/console.png)
+  ![console](/img/console.png)
 4. Prueba los siguientes comandos uno por uno y observa el resultado:
    ```js
    2 + 2
@@ -21,13 +21,13 @@
    let nombre = "Anita"
    nombre
    ```
-  ![Pruebas](/Optativa-Pedro-Morilla/img/pruebas.png)
+  ![Pruebas](/img/pruebas.png)
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
 1. Crea una carpeta llamada `00JSyEntorno` dentro de tu espacio de trabajo.
-  ![carpeta](/Optativa-Pedro-Morilla/img/Carpeta.png)
+  ![carpeta](/img/Carpeta.png)
 2. Dentro de esa carpeta, crea un archivo llamado `hola.html`.
-  ![html](/Optativa-Pedro-Morilla/img/html.png)
+  ![html](/img/html.png)
 
 3. Escribe el siguiente código en `hola.html`:
    ```html
@@ -46,13 +46,13 @@
    </body>
    </html>
    ```
-   ![escribir html](/Optativa-Pedro-Morilla/img/escribir-html.png)
+   ![escribir html](/img/escribir-html.png)
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
-![live](/Optativa-Pedro-Morilla/img/open.png)
-![nav](/Optativa-Pedro-Morilla/img/nav.png)
+![live](/img/open.png)
+![nav](/img/nav.png)
 
 5. Observa el resultado en la consola del navegador.
-  ![salida](/Optativa-Pedro-Morilla/img/salida.png)
+  ![salida](/img/salida.png)
 
 ## Parte 4: Experimenta
 
